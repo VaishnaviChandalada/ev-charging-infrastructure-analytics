@@ -254,9 +254,12 @@ ev-charging-infrastructure-analytics/
 
 This repository includes:
 
-- 📘 Full Project Report
-- 📌 Research Poster
-- 📓 Jupyter Notebook containing the complete Python workflow, including data cleaning, feature engineering, exploratory data analysis, regression modeling, and visualization.
+- 📘 **Full Project Report:** [EV_Charging_Infrastructure_Report.pdf](EV_Charging_Infrastructure_Report.pdf)
+- 📌 **Research Poster:** [EV_Charging_Infrastructure_Poster.pdf](EV_Charging_Infrastructure_Poster.pdf)
+- 📓 **Jupyter Notebook:** [EV_Charging_Infrastructure_Analytics.ipynb](EV_Charging_Infrastructure_Analytics.ipynb)
+
+The notebook contains the complete Python workflow, including data cleaning, data integration, feature engineering, exploratory data analysis, regression modeling, and visualization.
+
 
 ---
 
